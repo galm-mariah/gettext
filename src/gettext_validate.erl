@@ -18,7 +18,7 @@
 %% OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
-%% @author H�kan Stenholm <hokan@kreditor.se>
+%% @author HÃ¥kan Stenholm <hokan@kreditor.se>
 %% @doc Use this module to validate po files returned by translators. This
 %% validator assumes the po file to be valid (parsable without errors by
 %% gettext/poEdit/GNU po file tools). Its use is to check for errors

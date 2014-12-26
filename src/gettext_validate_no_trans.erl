@@ -19,7 +19,7 @@
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
 %% @private
-%% @author Håkan Stenholm <hokan@kreditor.se>
+%% @author HÃ¥kan Stenholm <hokan@kreditor.se>
 %% @doc Warn about texts that look untranslated (msgid = msgstr).
 
 -module(gettext_validate_no_trans).

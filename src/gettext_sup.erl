@@ -19,8 +19,8 @@
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
 %% @private
-%% @copyright 2003 Torbj�rn T�rnkvist
-%% @author Torbj�rn T�rnkvist <tobbe@tornkvist.org>
+%% @copyright 2003 TorbjÃ¶rn TÃ¶rnkvist
+%% @author TorbjÃ¶rn TÃ¶rnkvist <tobbe@tornkvist.org>
 %% @doc Supervisor for the gettext application
 
 -module(gettext_sup).

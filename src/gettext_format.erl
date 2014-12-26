@@ -19,7 +19,7 @@
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
 %% @private
-%% @author H�kan Stenholm <hokan@kreditor.se>
+%% @author HÃ¥kan Stenholm <hokan@kreditor.se>
 %% @doc Support module for TXT functions.
 
 -module(gettext_format).

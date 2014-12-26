@@ -18,8 +18,8 @@
 %% OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
-%% @copyright 2003 Torbj�rn T�rnkvist
-%% @author Torbj�rn T�rnkvist <tobbe@tornkvist.org>
+%% @copyright 2003 TorbjÃÂÃÂ¶rn TÃÂÃÂ¶rnkvist
+%% @author TorbjÃÂÃÂ¶rn TÃÂÃÂ¶rnkvist <tobbe@tornkvist.org>
 %% @doc Server for Erlang gettext.
 
 -module(gettext_server).

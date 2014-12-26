@@ -18,8 +18,8 @@
 %% OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
-%% @copyright 2004 Torbjörn Törnkvist
-%% @author Torbjörn Törnkvist <tobbe@tornkvist.org>
+%% @copyright 2004 TorbjÃ¶rn TÃ¶rnkvist
+%% @author TorbjÃ¶rn TÃ¶rnkvist <tobbe@tornkvist.org>
 %% @doc ISO 639 2- and 3-letter codes.
 %% @private
 
@@ -416,7 +416,7 @@ lc3lang("uzb") -> "Uzbek";
 lc3lang("vai") -> "Vai";
 lc3lang("ven") -> "Venda";
 lc3lang("vie") -> "Vietnamese";
-lc3lang("vol") -> "Volapük";
+lc3lang("vol") -> "VolapÃ¼k";
 lc3lang("vot") -> "Votic";
 lc3lang("wak") -> "Wakashan languages";
 lc3lang("wal") -> "Walamo";
@@ -824,7 +824,7 @@ all3lang() ->
      {"vai", "Vai"},
      {"ven", "Venda"},
      {"vie", "Vietnamese"},
-     {"vol", "Volapük"},
+     {"vol", "VolapÃ¼k"},
      {"vot", "Votic"},
      {"wak", "Wakashan languages"},
      {"wal", "Walamo"},
@@ -943,7 +943,7 @@ lc2lang("ms") -> "Malay";
 lc2lang("mt") -> "Maltese";
 lc2lang("my") -> "Burmese";
 lc2lang("na") -> "Nauru";
-lc2lang("nb") -> "Norwegian Bokmål";
+lc2lang("nb") -> "Norwegian BokmÃ¥l";
 lc2lang("nd") -> "Ndebele, North";
 lc2lang("ne") -> "Nepali";
 lc2lang("ng") -> "Ndonga";
@@ -953,7 +953,7 @@ lc2lang("no") -> "Norwegian";
 lc2lang("nr") -> "Ndebele, South";
 lc2lang("nv") -> "Navajo";
 lc2lang("ny") -> "Chichewa; Nyanja";
-lc2lang("oc") -> "Occitan; Provençal";
+lc2lang("oc") -> "Occitan; ProvenÃ§al";
 lc2lang("om") -> "(Afan) Oromo";
 lc2lang("or") -> "Oriya";
 lc2lang("os") -> "Ossetian; Ossetic";
@@ -1114,7 +1114,7 @@ all2lang() ->
      {"mt", "Maltese"},
      {"my", "Burmese"},
      {"na", "Nauru"},
-     {"nb", "Norwegian Bokmål"},
+     {"nb", "Norwegian BokmÃ¥l"},
      {"nd", "Ndebele, North"},
      {"ne", "Nepali"},
      {"ng", "Ndonga"},
@@ -1124,7 +1124,7 @@ all2lang() ->
      {"nr", "Ndebele, South"},
      {"nv", "Navajo"},
      {"ny", "Chichewa; Nyanja"},
-     {"oc", "Occitan; Provençal"},
+     {"oc", "Occitan; ProvenÃ§al"},
      {"om", "(Afan) Oromo"},
      {"or", "Oriya"},
      {"os", "Ossetian; Ossetic"},

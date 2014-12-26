@@ -19,7 +19,7 @@
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
 %% @private
-%% @author H�kan Stenholm <hokan@kreditor.se>
+%% @author HÃ¥kan Stenholm <hokan@kreditor.se>
 %% @doc Try to find texts that should/shouldn't start on upper case
 %% depending on if the text is the start of a sentence or not - e.g.,
 %% Swedish text usually only uses upper case at sentence start (and in
@@ -83,7 +83,7 @@ case_changed(Case1, Case2) ->
 
 %% return: upper | lower | 
 %%         case_less (one variant char e.g. numbers, punctuation ...)
-%% note  : � and y with double dots are technicaly a lower case only letters
+%% note  : Ã¯Â¿Â½ and y with double dots are technicaly a lower case only letters
 %%         but can in this case checker context be considred to be case less
 %%         as well
 has_case(Char) ->

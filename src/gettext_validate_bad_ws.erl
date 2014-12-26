@@ -19,7 +19,7 @@
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
 %% @private
-%% @author H�kan Stenholm <hokan@kreditor.se>
+%% @author HÃ¥kan Stenholm <hokan@kreditor.se>
 %% @doc Check for differences in trailing and initial whitespaces between
 %% msgid and msgstr. This is important when several translated texts are
 %% appended. Changes in whitespaces may also yield broken files when

@@ -19,7 +19,7 @@
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
 %% @private
-%% @author H�kan Stenholm <hokan@kreditor.se>
+%% @author HÃ¥kan Stenholm <hokan@kreditor.se>
 %% @doc Check that msgstr uses the same tags, tag nesting, and tag
 %% attributes as msgid - deviations will often (but not always) indicate an
 %% error.

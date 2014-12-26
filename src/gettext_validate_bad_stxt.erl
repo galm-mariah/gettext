@@ -19,7 +19,7 @@
 %% USE OR OTHER DEALINGS IN THE SOFTWARE.
 %%
 %% @private
-%% @author H�kan Stenholm <hokan@kreditor.se>
+%% @author HÃ¥kan Stenholm <hokan@kreditor.se>
 %% @doc Check for errors like unknown `$...$' parameters in msgstr and
 %% suspect but valid cases like not using a parameter from msgid in msgstr.
 
